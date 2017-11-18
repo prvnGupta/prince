@@ -3,5 +3,6 @@ welcome to coding part..
 java
 python
 
+scala
 
 thank u
